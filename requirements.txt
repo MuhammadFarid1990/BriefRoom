@@ -1,0 +1,11 @@
+anthropic
+streamlit
+plotly
+feedparser
+beautifulsoup4
+requests
+python-dotenv
+apscheduler
+yfinance
+reportlab
+playwright
